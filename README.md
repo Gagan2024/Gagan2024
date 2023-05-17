@@ -36,7 +36,7 @@
     <a href="https://github.com/gagan2024/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gagan2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="190px" width="420px"/></a>
   <a href="https://github.com/gagan2024/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan2024&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="170px" width="370px"/></a>
   <br/>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Gagan2024&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gagan2024&theme=dark&background=000000)](https://git.io/streak-stats)
   </summary>
 
 
